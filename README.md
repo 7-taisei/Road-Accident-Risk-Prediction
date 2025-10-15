@@ -49,7 +49,14 @@
 
 ---
 
-## 6. 技術スタック (Tech Stack)
+## 6.　データセット
+
+今回のcompetitionのデータセットは以下のリンクより入手可能です。
+[Dataset](https://www.kaggle.com/competitions/playground-series-s5e10/data)
+
+---
+
+## 7. 技術スタック (Tech Stack)
 
 * **Language:** Python 3
 * **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, LightGBM, XGBoost
