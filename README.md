@@ -1,4 +1,4 @@
-# Kaggle "House Prices" 上位解法コードの学習・写経リポジトリ
+# Kaggle "Predicting Road Accident Risk" 上位解法コードの学習・写経リポジトリ
 
 ## 1. 概要 (Overview)
 
